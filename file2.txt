@@ -2,3 +2,4 @@ ja nie pojde siedziec
 
 
 another line from user2
+critical bug fixed
